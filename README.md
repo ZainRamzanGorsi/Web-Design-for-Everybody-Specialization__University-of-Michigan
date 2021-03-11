@@ -1,5 +1,5 @@
 # Web-Design-for-Everybody_Basics-of-Web-Development-Coding-Specialization
-  from [University of Michigan](https://umich.edu/) Through [Punjab Skills Development Fund(PSDF)](https://www.psdf.org.pk/) 
+  from [University of Michigan](https://umich.edu/) through [Punjab Skills Development Fund(PSDF)](https://www.psdf.org.pk/) 
 ----
 
 ----------
