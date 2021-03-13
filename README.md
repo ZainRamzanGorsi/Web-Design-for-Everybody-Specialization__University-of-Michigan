@@ -30,3 +30,4 @@ Course No # 04 - Advanced Styling with Responsive Design
 ---
 [Certificate](https://www.coursera.org/account/accomplishments/verify/8FSMA68A8PUX)
 
+![Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/LSJRWYEMAZ5Q)
